@@ -73,7 +73,7 @@ Appsource School Management System uses a number of open source projects to work
         'password' => '',
         'db' => 'appsource-sms'
 ```
-5. You are now ready to use EduSec.
+5. You are now ready to use Appsource School Management System.
 
 #
 #
