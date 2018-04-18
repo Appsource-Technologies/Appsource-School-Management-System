@@ -9,12 +9,6 @@ Appsource school system provides different access levels to its users. The Super
 #
 #
 
-# Official Documentation
-Documentation for the system is available at: [Appsource Documentation](http://www.school.appsource.ug/doc)
-
-#
-#
-
 # Features!
 
   - Admissions
@@ -39,6 +33,32 @@ You can also:
   - Set Custom Exam-sets
   - Manage a Ledge book
   - Do much more!
+  
+
+#
+#
+
+### Online Demo
+#
+http://www.school.appsource.ug
+
+1. Super User
+    - **Username** : super   **Password** : super
+2. Director Of Studies
+    - **Username** : appsource-dos **Password** : appsource-dos
+3. Head Master 
+    - **Username** : appsource-hm **Password** : appsource-hm
+4. Librarian 
+    - **Username** : appsource-lib **Password** : appsource-lib
+4. Teacher 
+    - **Username** : appsource-teacher-1 **Password** : appsource-teacher-1
+
+Other Users include 
+
+    - Deputy Head Master
+    - Secretary
+    - Bursor
+    
 
 ### Tech
 
@@ -77,28 +97,6 @@ Appsource School Management System uses a number of open source projects to work
 
 #
 #
-
-## Online Demo
-#
-http://www.school.appsource.ug
-
-
-1. Super User
-    - **Username** : super   **Password** : super
-2. Director Of Studies
-    - **Username** : appsource-dos **Password** : appsource-dos
-3. Head Master 
-    - **Username** : appsource-hm **Password** : appsource-hm
-4. Librarian 
-    - **Username** : appsource-lib **Password** : appsource-lib
-4. Teacher 
-    - **Username** : appsource-teacher-1 **Password** : appsource-teacher-1
-
-Other Users include 
-
-    - Deputy Head Master
-    - Secretary
-    - Bursor
 
 
 ### Development
