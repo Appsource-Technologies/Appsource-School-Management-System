@@ -41,7 +41,7 @@ You can also:
 ### Online Demo
 http://www.appsource.ug
 #
-http://www.school.appsource.ug
+http://www.appsource.ug/school/demo
 
 1. Super User
     - **Username** : super   **Password** : super
