@@ -39,9 +39,9 @@ You can also:
 #
 
 ### Online Demo
-http://www.appsource.ug
+http://appsourcetechnologies.com/school/
 #
-http://www.appsource.ug/school/demo
+http://appsourcetechnologies.com/school/school/demo
 
 1. Super User
     - **Username** : super   **Password** : super
@@ -108,7 +108,7 @@ Want to contribute? Great!
 
 #### Support
 
-If you have questions or need help troubleshooting some problem, contact us via Whatsapp on **+256-757-15-0000**, or write to us at [info@appsource.ug](mailto:info@appsource.ug).
+If you have questions or need help troubleshooting some problem, contact us via Whatsapp on **+256-757-15-0000**, or write to us at [info@appsourcetechnologies.com](mailto:info@appsourcetechnologies.com).
 
 
 License
