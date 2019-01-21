@@ -39,7 +39,7 @@ You can also:
 #
 
 ### Online Demo
-http://appsourcetechnologies.com/school/
+http://school.appsourcetechnologies.com
 #
 http://appsourcetechnologies.com/school/demo
 
@@ -108,7 +108,7 @@ Want to contribute? Great!
 
 #### Support
 
-If you have questions or need help troubleshooting some problem, contact us via Whatsapp on **+256-757-15-0000**, or write to us at [info@appsourcetechnologies.com](mailto:info@appsourcetechnologies.com).
+If you have questions or need help troubleshooting some problem, contact us via Whatsapp on **+254-792-729987**, or write to us at [info@appsourcetechnologies.com](mailto:info@appsourcetechnologies.com).
 
 
 License
