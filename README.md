@@ -3,6 +3,7 @@ Appsource SMS has a ton of features that largely appeal to teachers. It provides
 It’s built with a complete suite of applications that permits you to automate all aspects of a school, including student information system, student-grading, student billing & library management.
 Appsource school system provides different access levels to its users. The Super User/Administrator, Head master, Director of Studies, Teachers, Secretary, Librarian, etc all have separate access levels allowing them to only access information they require. 
 
+  - Contact via WhatsApp on **+256-705-656565**
 
 **Appsource SMS is built using Pure PHP** (No PHP Framework Used)
 
@@ -108,7 +109,7 @@ Want to contribute? Great!
 
 #### Support
 
-If you have questions or need help troubleshooting some problem, contact us via Whatsapp on **+254-792-729987**, or write to us at [info@appsourcetechnologies.com](mailto:info@appsourcetechnologies.com).
+If you have questions or need help troubleshooting some problem, contact us via Whatsapp on **+256-705-656565**, or write to us at [info@appsourcetechnologies.com](mailto:info@appsourcetechnologies.com).
 
 
 License
