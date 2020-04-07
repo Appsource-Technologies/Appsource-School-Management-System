@@ -1,3 +1,12 @@
+#
+
+### For the Free Schoolskipper school management system go to:
+https://schoolskipper.org
+
+#
+#
+#
+
 **Appsource SMS** a clean and modern school management system that covers everything from exams and assignments to budgeting and internal messaging for all staff. It even includes a mobile app that can work on all tablets and smartphones for convenient on-the-go use.
 Appsource SMS has a ton of features that largely appeal to teachers. It provides educators with what they need to efficiently run their classrooms.
 It’s built with a complete suite of applications that permits you to automate all aspects of a school, including student information system, student-grading, student billing & library management.
