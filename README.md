@@ -118,7 +118,7 @@ Want to contribute? Great!
 
 #### Support
 
-If you have questions or need help troubleshooting some problem, contact us via Whatsapp on **+256-705-656565**, or write to us at [info@appsourcetechnologies.com](mailto:info@appsourcetechnologies.com).
+If you have questions or need help troubleshooting some problem, contact us via Whatsapp on **+256-705-656565**, or write to us at [info@appsourcetechnologies.com](mailto:info@appsourcetechnologies.com). Sponsord by https://ugwatch.com
 
 
 License
