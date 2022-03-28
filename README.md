@@ -1,7 +1,7 @@
 #
 
-### For the Free Schoolskipper school management system go to:
-https://schoolskipper.org
+### To buy the complete System with Complete Database and files, visit:
+https://appsourcetechnologies.com/buy
 
 #
 #
@@ -52,6 +52,8 @@ You can also:
 http://school.appsourcetechnologies.com
 #
 http://appsourcetechnologies.com/school/demo
+#
+Buy Full System -> https://appsourcetechnologies.com/buy
 
 1. Super User
     - **Username** : super   **Password** : super
