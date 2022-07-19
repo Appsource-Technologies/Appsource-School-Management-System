@@ -5,7 +5,7 @@ include('dbConfig.php');
 
 if (isset($_POST["student"]) && !empty($_POST["student"])) {
 
-    $queryDup = "select * from student_info where  where class_id = '" . $class . "' ";
+    $queryDup = "select * from student_info  where class_id = '" . $class . "' "; 
     if (DB::getInstance()->checkRows($queryDup)) {
         echo '<option value="">Select state</option>';
         $res_lists = DB::getInstance()->query($queryDup);
