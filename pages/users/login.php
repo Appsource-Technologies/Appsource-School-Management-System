@@ -67,9 +67,10 @@ if(isset($_SESSION['school_user_id'])){
                                     if ($validation->passed()) {
                                         $username = Input::get("username");
                                         $password = sha1(Input::get('password'));
+                                        $safe_username = addslashes($username);
 //                                l
                                         $user = new User();
-                                        $login = DB::getInstance()->checkRows("select * from sch_users where user_name='$username' and password='$password' AND active_status=1"); //($username, $password);
+                                        $login = DB::getInstance()->checkRows("select * from sch_users where user_name='$safe_username' and password='$password' AND active_status=1"); //($username, $password);
                                         if ($login) {
                                             $_SESSION['school_username'] = $username;
                                             $_SESSION['school_user_role'] = DB::getInstance()->getName("sch_users", $username, "user_type", "user_name");
